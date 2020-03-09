@@ -67,8 +67,8 @@ public class SnowflakeDriverExample
     }
     // build connection properties
     Properties properties = new Properties();
-    properties.put("user", "venky");     // replace "" with your username
-    properties.put("password", "S9ibaba!"); // replace "" with your password
+    properties.put("user", "#######");     // replace "" with your username
+    properties.put("password", "########"); // replace "" with your password
     properties.put("account", "ina88167");  // replace "" with your account name
     properties.put("db", "DEMO_DB");       // replace "" with target database name
     properties.put("warehouse", "MY_WAREHOUSE");       // replace "" with target warehouse name
